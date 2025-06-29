@@ -17,7 +17,7 @@
 						{
 							"key": "file",
 							"type": "file",
-							"src": ""
+							"src": "/exercise_file.csv"
 						}
 					]
 				},
